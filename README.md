@@ -9,8 +9,8 @@ Skills: EXPRESS JS/ REACT / JS / HTML / CSS / PYTHON / C / SYBER SECURITY
 - 🔭 I’m currently working on RepairSafe 
 - 🌱 I’m currently learning Full Stack Web Developing 
 - 👯 I’m looking to collaborate on finding new ideas and developing them 
-- 💬 Ask me about anything about anything 
-- 😄 Pronouns: Web Developer 
+- 💬 Ask me about anything ...
+- 😄 Pronouns: Web Developer Mr.Lamer phonenumber123
 - ⚡ Fun fact: I can hack Nasa with HTML injection 
 
 
