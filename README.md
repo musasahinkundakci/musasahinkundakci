@@ -2,7 +2,7 @@
 #### I am a self-taught Web Developer and computer engineering student
 ![I am a self-taught Web Developer and computer engineering student](https://www.freecodecamp.org/news/content/images/2019/07/panel-1-1.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: EXPRESS JS/ REACT / JS / HTML / CSS / PYTHON / C / SYBER SECURITY
 
