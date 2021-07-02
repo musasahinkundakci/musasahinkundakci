@@ -22,8 +22,7 @@ Skills: EXPRESS JS/ REACT / JS / HTML / CSS / PYTHON / C / SYBER SECURITY
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musasahinkundakci&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musasahinkundakci)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musasahinkundakci)  
+
 
 ![Profile views](https://gpvc.arturio.dev/musasahinkundakci)  
