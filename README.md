@@ -4,7 +4,7 @@
 
 
 
-Skills: EXPRESS JS/ REACT / JS / HTML / CSS / PYTHON / C / SYBER SECURITY
+Skills: EXPRESS JS/ REACT / JS / HTML / CSS / PYTHON / C / SYBER SECURITY 
 
 - 🔭 I’m currently working on RepairSafe 
 - 🌱 I’m currently learning Full Stack Web Developing 
@@ -12,7 +12,7 @@ Skills: EXPRESS JS/ REACT / JS / HTML / CSS / PYTHON / C / SYBER SECURITY
 - 💬 Ask me about anything ...
 - 😄 Pronouns: Web Developer Mr.Lamer phonenumber123
 - ⚡ Fun fact: I can hack Nasa with HTML injection 
-
+- 🐵 HackerRank:https://www.hackerrank.com/musa_20
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/musasahinkundakci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/musa-şahin-kundakci-2184271b4//)  
 
