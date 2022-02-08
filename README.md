@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musasahinkundakci" alt="musasahinkundakci" /></a> </p>
 
-- 🔭 I’m currently working on [ustamsaglam](ustamsaglam.com)
+- 🔭 I’m currently working on Computer vision and AI
 
 - 🌱 I’m currently learning **VueJs**
 
