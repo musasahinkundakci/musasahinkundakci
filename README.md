@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Computer vision and AI
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/musasahinkundakci](https://github.com/musasahinkundakci)
 
