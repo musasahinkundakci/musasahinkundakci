@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/musasahinkundakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="musasahinkundakci" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/musa-şahin-kundakci-2184271b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musa-şahin-kundakci-2184271b4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/musa-şahin-kundakci-2184271b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musa-şahin-kundakci-2184271b4/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15249809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15249809" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/musa_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="musa_20" height="30" width="40" /></a>
 </p>
