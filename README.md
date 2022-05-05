@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musasahinkundakci" alt="musasahinkundakci" /></a> </p>
 
-- 🔭 I’m currently working on Computer vision and AI
+- 🔭 I’m currently working on Javascript and Nodejs
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Javascript and Nodejs Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/musasahinkundakci](https://github.com/musasahinkundakci)
 
-- 💬 Ask me about **VanillaJs**
+- 💬 Ask me about **VanillaJs and Pure Nodejs**
 
 - 📫 How to reach me **musa.20@windowslive.com**
 
