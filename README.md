@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musasahinkundakci&label=Profile%20views&color=0e75b6&style=flat" alt="musasahinkundakci" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musasahinkundakci" alt="musasahinkundakci" /></a> </p>
-
 - 📫 How to reach me **musa.20@windowslive.com**
 
 <h3 align="left">Connect with me:</h3>
